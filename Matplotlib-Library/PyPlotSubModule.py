@@ -6,3 +6,12 @@ ypoints = np.array([0, 250])
 
 plt.plot(xpoints, ypoints)
 plt.show()
+
+
+#plotting two points
+
+xpoints = np.array([1, 8])
+ypoints = np.array([3, 10])
+
+plt.plot(xpoints, ypoints)
+plt.show()
