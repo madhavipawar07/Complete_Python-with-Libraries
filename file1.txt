@@ -1,1 +1,8 @@
-Hell
+Python is a powerful programming language.
+Generators help in memory-efficient coding.
+They yield values one at a time.
+This is useful for large datasets.
+You can iterate over generators easily.
+Learning generators is important for interviews.
+Practice makes coding better.
+Keep exploring new concepts in Python.
