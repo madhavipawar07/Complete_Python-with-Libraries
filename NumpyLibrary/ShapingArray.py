@@ -19,3 +19,8 @@ print(newarr)
 newarr = arr.reshape(2, 3, 2)
 
 print(newarr)
+
+arr = np.array([1, 2, 3])
+
+for x in arr:
+  print(x)
