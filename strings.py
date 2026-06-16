@@ -115,7 +115,7 @@ print(str3.swapcase())
 
 #title()
 print(str3.title())
-
+print(s2.title())
 
 
 
